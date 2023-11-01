@@ -10,7 +10,6 @@ body{
 }
 
 header{
-    color: rgb(255, 255, 255);
     color: rgb(215, 199, 182);
     text-align: center;
     padding: 2% 0% 2% 0%;
@@ -39,7 +38,7 @@ div{
 
 footer{
     text-align: center;
-    color: white;
+    color: rgb(215, 199, 182);
     font-style: italic;
     margin-top: 10%;
     bottom: 0;
