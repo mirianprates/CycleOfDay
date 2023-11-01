@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
+
+body{
+    background: rgba(112, 177, 234, 0.674);
+    font: normal 15pt Arial;
+    
+}
+
+header{
+    color: rgb(255, 255, 255);
+    color: rgb(215, 199, 182);
+    text-align: center;
+    padding: 2% 0% 2% 0%;
+    margin: 4% 0% 4% 0%;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.673);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 45%;
+    padding: 2% 2%;
+    gap: 2rem;
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+}
+
+@media screen and (min-width: 700px) {
+
+    section{
+        margin: auto;
+        width: 500px;
+    }
+
+}
