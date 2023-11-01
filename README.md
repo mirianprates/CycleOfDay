@@ -6,7 +6,7 @@ Bem-vindo ao projeto "Cycle of Day"! Este é um projeto desenvolvido com HTML, C
 
 Este projeto utiliza recursos web para determinar o horário atual do usuário e, com base nisso, exibe uma imagem de fundo correspondente à manhã, tarde ou noite. É uma maneira criativa de tornar a experiência do usuário mais envolvente e atraente.
 <div align="center">
-<img src="https://github.com/mirianprates/CycleOfDay/assets/129620883/e732ed3f-d3b3-4734-9e5e-40bd06e16109" width="600px" />
+<img src="https://github.com/mirianprates/CycleOfDay/assets/129620883/2e60bd48-e144-4b37-9e57-1e6ea53c4f7b" width="600px" />
 </div>
 
 <div align="center">
